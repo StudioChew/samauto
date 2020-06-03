@@ -12,3 +12,6 @@
 
 # why did you make this?
  because i am lazy
+
+# So, How do i customize it?
+ easy. First, fork this. Then, Go into the batch file. there is a comment that will tell you what to change. 
